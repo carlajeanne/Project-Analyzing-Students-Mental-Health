@@ -5,7 +5,7 @@ Does going to university in a different country affect your mental health? A Jap
 
 The study found that international students have a higher risk of mental health difficulties than the general population, and that social connectedness (belonging to a social group) and acculturative stress (stress associated with joining a new culture) are predictive of depression.
 
-### `international_debt`
+### `students`
 | `inter_dom`       | Types of students (international or domestic)      |  
 | `japanese_cate`   | Japanese language proficiency                      |  
 | `english_cate`    | English language proficiency                       |  
